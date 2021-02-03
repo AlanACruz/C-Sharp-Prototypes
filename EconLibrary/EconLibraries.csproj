@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Production\Aquaculture\Mariculture\" />
+    <Folder Include="Production\Aquaculture\Pisciculture\" />
+    <Folder Include="Production\EnergyProduction\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CruzLibrary\CruzLibraries.csproj" />
+  </ItemGroup>
+
+</Project>
