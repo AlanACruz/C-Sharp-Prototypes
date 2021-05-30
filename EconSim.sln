@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EconTest", "EconTest\EconTe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EconRuntime", "EconRuntime\EconRuntime.csproj", "{7C4F5207-1153-440F-A527-E0405D033540}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EconLibraries", "EconLibrary\EconLibraries.csproj", "{FD012117-A676-4401-8E64-7B54DA4544FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EconLibrary", "EconLibrary\EconLibrary.csproj", "{FD012117-A676-4401-8E64-7B54DA4544FC}"
 	ProjectSection(ProjectDependencies) = postProject
 		{96836A2C-9609-4E84-9C24-7296FCFD9C5A} = {96836A2C-9609-4E84-9C24-7296FCFD9C5A}
 	EndProjectSection

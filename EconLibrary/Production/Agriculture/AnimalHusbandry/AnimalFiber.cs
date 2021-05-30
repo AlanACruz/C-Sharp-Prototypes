@@ -6,7 +6,7 @@ using System.Text;
 
 namespace EconLibraries.Production.Agriculture.AnimalHusbandry
 {
-    public class AnimalFibers : IGeneratableType, 
+    public class AnimalFibers : IGeneratableType 
     {
     }
 }
