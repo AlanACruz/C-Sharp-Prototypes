@@ -1,4 +1,4 @@
-﻿using CruzLibrary.Generatiom;
+﻿using CruzLibrary.Generation;
 using CruzLibrary.Serialiazation;
 using EconLibrary.Production;
 using System;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EconLibraries.Production.Agriculture.AnimalHusbandry
+namespace EconLibrary.Production.Agriculture.AnimalHusbandry
 {
     public class Pasture
     {

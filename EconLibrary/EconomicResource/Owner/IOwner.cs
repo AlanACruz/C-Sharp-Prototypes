@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EconLibraries.EconomicResource.Owner
+namespace EconLibrary.EconomicResource.Owner
 {
     public interface IOwner : IEconomicResource
     {

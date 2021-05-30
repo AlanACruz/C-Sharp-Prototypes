@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using EconLibrary.EconomicResource.Owner; 
 
-namespace EconLibraries.BusinessOrganization
+namespace EconLibrary.BusinessOrganization
 {
     public class Partnership : IOrganization
     {
+        public String Name { get; }
+        public List<IOwner> OwnerList { get; }
     }
 }

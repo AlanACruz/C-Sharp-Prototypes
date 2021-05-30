@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CruzLibrary.Generatiom
+namespace CruzLibrary.Generation
 {
     public interface IFactoryRandomizer
     {

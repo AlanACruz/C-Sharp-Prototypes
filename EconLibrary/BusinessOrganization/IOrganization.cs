@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using EconLibraries.EconomicResource;
-using CruzLibrary;
+using EconLibrary.EconomicResource.Owner;
+using CruzLibrary.Serialiazation;
 
-namespace EconLibraries.BusinessOrganization
+namespace EconLibrary.BusinessOrganization
 {
     public interface IOrganization : IJsonable
     {
-        String Name { get; }
+        public String Name { get; }
         public List<IOwner> OwnerList { get; }
     }
 }

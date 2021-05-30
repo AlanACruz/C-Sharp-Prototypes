@@ -1,4 +1,4 @@
-﻿using CruzLibrary.Generatiom;
+﻿using CruzLibrary.Generation;
 using EconLibrary.Production;
 using System;
 using System.Collections.Generic;
@@ -7,10 +7,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-//namespace EconLibraries.Production
-//{
-//    interface IProductFactoryRandomizer : IFactoryRandomizer
-//    {
-//        public IProductFactory GenerateRandomFactory();
-//    }
-//}
+namespace EconLibrary.Production
+{
+   interface IProductFactoryRandomizer : IFactoryRandomizer
+   {
+
+   }
+}

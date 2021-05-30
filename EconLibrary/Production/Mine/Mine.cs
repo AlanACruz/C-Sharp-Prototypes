@@ -1,13 +1,12 @@
-﻿using System;
+﻿using EconLibrary.Production;
+using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using CruzLibrary.Generation;
 
-namespace EconLibrary.Production.Agriculture
+namespace EconLibrary.Production.Mine
 {
-    class Farm : IProductFactory
+    public class Mine : IProductFactory
     {
         public IGeneratableType Generate()
         {

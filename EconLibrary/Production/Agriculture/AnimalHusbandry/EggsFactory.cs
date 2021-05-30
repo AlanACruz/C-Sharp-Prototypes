@@ -1,4 +1,4 @@
-﻿using CruzLibrary.Generatiom;
+﻿using CruzLibrary.Generation;
 using EconLibrary.Production;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EconLibraries.Production.Agriculture.AnimalHusbandry
+namespace EconLibrary.Production.Agriculture.AnimalHusbandry
 {
     class EggFactory : ITypeFactory
     {

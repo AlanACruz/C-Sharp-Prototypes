@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using CruzLibrary;
+using CruzLibrary.Serialiazation;
 
-namespace EconLibraries.EconomicResource
+namespace EconLibrary.EconomicResource
 {
     public interface IEconomicResource : IJsonable
     {

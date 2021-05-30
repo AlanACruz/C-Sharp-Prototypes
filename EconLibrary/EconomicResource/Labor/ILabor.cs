@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EconLibraries.EconomicResource.Labor
+namespace EconLibrary.EconomicResource.Labor
 {
     public interface ILabor : IEconomicResource
     {

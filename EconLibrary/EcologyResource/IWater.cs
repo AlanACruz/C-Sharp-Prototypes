@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EconLibraries.Resource
+namespace EconLibrary.Resource
 {
     public interface IWater : IEcologyResource
     {

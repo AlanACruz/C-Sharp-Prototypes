@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using EconLibraries.EconomicResource;
-using EconLibraries.EconomicResource.Labor;
-using EconLibraries.EconomicResource.Owner;
+using EconLibrary.EconomicResource;
+using EconLibrary.EconomicResource.Labor;
+using EconLibrary.EconomicResource.Owner;
 
-namespace EconLibraries.People
+namespace EconLibrary.People
 {
     public class Person : ILabor, IOwner
     {

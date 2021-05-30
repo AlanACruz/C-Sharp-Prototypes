@@ -1,12 +1,12 @@
 ﻿
-using CruzLibrary.Generatiom;
+using CruzLibrary.Generation;
 using CruzLibrary.Serialiazation;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using EconLibrary.Production;
 
-//namespace EconLibraries.Production.Agriculture.AnimalHusbandry
+//namespace EconLibrary.Production.Agriculture.AnimalHusbandry
 //{
 //    public interface IAnimalHusbandry : IProductType
 //    {

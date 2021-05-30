@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EconLibraries.EconomicResource.Land
+namespace EconLibrary.EconomicResource.Land
 {
     public interface ILand : IEconomicResource
     {

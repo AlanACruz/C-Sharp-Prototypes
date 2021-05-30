@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EconLibraries.EconomicResource.Capital
+namespace EconLibrary.EconomicResource.Capital
 {
     public interface ICapital : IEconomicResource
     {
