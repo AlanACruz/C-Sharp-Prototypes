@@ -1,5 +1,5 @@
-﻿using CruzLibraries.Generatiom;
-using CruzLibraries.Serialiazation;
+﻿using CruzLibrary.Generatiom;
+using CruzLibrary.Serialiazation;
 using EconLibrary.Production;
 using System;
 using System.Collections.Generic;

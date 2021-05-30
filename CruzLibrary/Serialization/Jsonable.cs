@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json;
 
-namespace CruzLibraries.Serialiazation
+namespace CruzLibrary.Serialiazation
 {
     public interface IJsonable
     {

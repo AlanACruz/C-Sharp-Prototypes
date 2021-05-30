@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CruzLibrary\CruzLibraries.csproj" />
+    <ProjectReference Include="..\CruzLibrary\CruzLibrary.csproj" />
   </ItemGroup>
 
 </Project>

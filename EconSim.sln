@@ -12,7 +12,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EconLibraries", "EconLibrar
 		{96836A2C-9609-4E84-9C24-7296FCFD9C5A} = {96836A2C-9609-4E84-9C24-7296FCFD9C5A}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruzLibraries", "CruzLibrary\CruzLibraries.csproj", "{96836A2C-9609-4E84-9C24-7296FCFD9C5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CruzLibrary", "CruzLibrary\CruzLibrary.csproj", "{96836A2C-9609-4E84-9C24-7296FCFD9C5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

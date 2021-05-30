@@ -1,4 +1,4 @@
-﻿using CruzLibraries.Generatiom;
+﻿using CruzLibrary.Generatiom;
 using EconLibrary.Production;
 using System;
 using System.Collections.Generic;

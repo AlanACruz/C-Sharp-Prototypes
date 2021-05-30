@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using EconLibraries.EconomicResource;
-using CruzLibraries;
+using CruzLibrary;
 
 namespace EconLibraries.BusinessOrganization
 {

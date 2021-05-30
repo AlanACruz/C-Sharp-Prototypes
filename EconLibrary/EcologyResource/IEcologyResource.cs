@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using CruzLibraries;
+using CruzLibrary;
 
 namespace EconLibraries.Resource
 {
