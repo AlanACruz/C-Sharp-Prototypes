@@ -39,7 +39,7 @@ sudo usermod -aG docker $USER
 sudo chmod 666 /var/run/docker.sock
 ```
 
-# Pull .NET container
+# Pull .NET image
 ```
 docker pull mcr.microsoft.com/dotnet/sdk:5.0
 ```
