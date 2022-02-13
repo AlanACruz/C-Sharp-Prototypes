@@ -3,7 +3,7 @@
 
 # git clone
 ```
-git clone git@github.com:AlanACruz/C-Sharp-Prototypes.git ~/git/
+git clone git@github.com:AlanACruz/C-Sharp-Prototypes.git ~/git/C-Sharp-Prototypes
 ```
 
 # install docker
